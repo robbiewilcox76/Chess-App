@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/woods"
+    tools:context=".MainMenu">
+
+    <Button
+        android:id="@+id/previousGames"
+        android:layout_width="150dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="117dp"
+        android:layout_marginEnd="117dp"
+        android:layout_marginBottom="-40dp"
+        android:background="#000000"
+        android:backgroundTintMode="add"
+        android:onClick="oldGames"
+        android:text="@string/old_games"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#FFFFFF"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/newGame"
+        tools:ignore="TouchTargetSizeCheck"
+        tools:visibility="visible" />
+
+    <Button
+        android:id="@+id/newGame"
+        style="@android:style/Widget.Material.Light.Button"
+        android:layout_width="134dp"
+        android:layout_height="69dp"
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="54dp"
+        android:layout_marginEnd="125dp"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#000000"
+        android:onClick="newGame"
+        android:rotationX="0"
+        android:text="@string/new_game"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/previousGames"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="299dp"
+        android:layout_height="522dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="42dp"
+        android:layout_marginBottom="-70dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/previousGames"
+        app:srcCompat="@drawable/screen_shot_2022_12_04_at_11_49_40_pm" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

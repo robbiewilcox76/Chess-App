@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/h7"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g7"
+        app:layout_constraintTop_toBottomOf="@+id/h8" />
+
+    <TextView
+        android:id="@+id/h7view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g7"
+        app:layout_constraintTop_toBottomOf="@+id/h8" />
+
+    <TextView
+        android:id="@+id/h5"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g5"
+        app:layout_constraintTop_toBottomOf="@+id/h6" />
+
+    <TextView
+        android:id="@+id/h5view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g5"
+        app:layout_constraintTop_toBottomOf="@+id/h6" />
+
+    <TextView
+        android:id="@+id/h4"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g4"
+        app:layout_constraintTop_toBottomOf="@+id/h5" />
+
+    <TextView
+        android:id="@+id/h4view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g4"
+        app:layout_constraintTop_toBottomOf="@+id/h5" />
+
+    <TextView
+        android:id="@+id/h3"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g3"
+        app:layout_constraintTop_toBottomOf="@+id/h4" />
+
+    <TextView
+        android:id="@+id/h3view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g3"
+        app:layout_constraintTop_toBottomOf="@+id/h4" />
+
+    <TextView
+        android:id="@+id/h2"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g2"
+        app:layout_constraintTop_toBottomOf="@+id/h3" />
+
+    <TextView
+        android:id="@+id/h2view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g2"
+        app:layout_constraintTop_toBottomOf="@+id/h3" />
+
+    <TextView
+        android:id="@+id/h1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g1"
+        app:layout_constraintTop_toBottomOf="@+id/h2" />
+
+    <TextView
+        android:id="@+id/h1view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g1"
+        app:layout_constraintTop_toBottomOf="@+id/h2" />
+
+    <TextView
+        android:id="@+id/h6"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g6"
+        app:layout_constraintTop_toBottomOf="@+id/h7" />
+
+    <TextView
+        android:id="@+id/h6view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/g6"
+        app:layout_constraintTop_toBottomOf="@+id/h7" />
+
+    <TextView
+        android:id="@+id/f7"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e7"
+        app:layout_constraintTop_toBottomOf="@+id/f8" />
+
+    <TextView
+        android:id="@+id/f7view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e7"
+        app:layout_constraintTop_toBottomOf="@+id/f8" />
+
+    <TextView
+        android:id="@+id/f6"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e6"
+        app:layout_constraintTop_toBottomOf="@+id/f7" />
+
+    <TextView
+        android:id="@+id/f6view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e6"
+        app:layout_constraintTop_toBottomOf="@+id/f7" />
+
+    <TextView
+        android:id="@+id/f5"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e5"
+        app:layout_constraintTop_toBottomOf="@+id/f6" />
+
+    <TextView
+        android:id="@+id/f5view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e5"
+        app:layout_constraintTop_toBottomOf="@+id/f6" />
+
+    <TextView
+        android:id="@+id/f4"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="88dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c6"
+        app:layout_constraintTop_toBottomOf="@+id/d7" />
+
+    <TextView
+        android:id="@+id/f4view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="88dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c6"
+        app:layout_constraintTop_toBottomOf="@+id/d7" />
+
+    <TextView
+        android:id="@+id/f3"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e3"
+        app:layout_constraintTop_toBottomOf="@+id/f4" />
+
+    <TextView
+        android:id="@+id/f3view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e3"
+        app:layout_constraintTop_toBottomOf="@+id/f4" />
+
+    <TextView
+        android:id="@+id/f2"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e2"
+        app:layout_constraintTop_toBottomOf="@+id/f3" />
+
+    <TextView
+        android:id="@+id/f2view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e2"
+        app:layout_constraintTop_toBottomOf="@+id/f3" />
+
+    <TextView
+        android:id="@+id/f1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e1"
+        app:layout_constraintTop_toBottomOf="@+id/f2" />
+
+    <TextView
+        android:id="@+id/f1view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/e1"
+        app:layout_constraintTop_toBottomOf="@+id/f2" />
+
+    <TextView
+        android:id="@+id/e7"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d7"
+        app:layout_constraintTop_toBottomOf="@+id/e8" />
+
+    <TextView
+        android:id="@+id/e7view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d7"
+        app:layout_constraintTop_toBottomOf="@+id/e8" />
+
+    <TextView
+        android:id="@+id/e6"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d6"
+        app:layout_constraintTop_toBottomOf="@+id/e7" />
+
+    <TextView
+        android:id="@+id/e6view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d6"
+        app:layout_constraintTop_toBottomOf="@+id/e7" />
+
+    <TextView
+        android:id="@+id/e4"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d4"
+        app:layout_constraintTop_toBottomOf="@+id/e5" />
+
+    <TextView
+        android:id="@+id/e4view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d4"
+        app:layout_constraintTop_toBottomOf="@+id/e5" />
+
+    <TextView
+        android:id="@+id/e5"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d5view"
+        app:layout_constraintTop_toBottomOf="@+id/e6" />
+
+    <TextView
+        android:id="@+id/e5view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d5view"
+        app:layout_constraintTop_toBottomOf="@+id/e6" />
+
+    <TextView
+        android:id="@+id/e3"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d3"
+        app:layout_constraintTop_toBottomOf="@+id/e4" />
+
+    <TextView
+        android:id="@+id/e3view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d3"
+        app:layout_constraintTop_toBottomOf="@+id/e4" />
+
+    <TextView
+        android:id="@+id/e2"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d2"
+        app:layout_constraintTop_toBottomOf="@+id/e3" />
+
+    <TextView
+        android:id="@+id/e2view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d2"
+        app:layout_constraintTop_toBottomOf="@+id/e3" />
+
+    <TextView
+        android:id="@+id/e1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d1"
+        app:layout_constraintTop_toBottomOf="@+id/e2" />
+
+    <TextView
+        android:id="@+id/e1view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/d1"
+        app:layout_constraintTop_toBottomOf="@+id/e2" />
+
+    <TextView
+        android:id="@+id/d5view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c5"
+        app:layout_constraintTop_toBottomOf="@+id/d6" />
+
+    <TextView
+        android:id="@+id/d2"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c2"
+        app:layout_constraintTop_toBottomOf="@+id/d3" />
+
+    <TextView
+        android:id="@+id/d2view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c2"
+        app:layout_constraintTop_toBottomOf="@+id/d3" />
+
+    <TextView
+        android:id="@+id/d4"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="88dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c6"
+        app:layout_constraintTop_toBottomOf="@+id/d7" />
+
+    <TextView
+        android:id="@+id/c7"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/b7"
+        app:layout_constraintTop_toBottomOf="@+id/c8" />
+
+    <TextView
+        android:id="@+id/c7view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/b7"
+        app:layout_constraintTop_toBottomOf="@+id/c8" />
+
+    <TextView
+        android:id="@+id/c2"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a3"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/c2view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a3"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/c3"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a4"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/c3view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a4"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/c4"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a5"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/c4view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a5"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/c5"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a6" />
+
+    <TextView
+        android:id="@+id/c5view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a6" />
+
+    <TextView
+        android:id="@+id/d6"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c6"
+        app:layout_constraintTop_toBottomOf="@+id/d7" />
+
+    <TextView
+        android:id="@+id/c6"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a7"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/c6view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a7"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/d3"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c3"
+        app:layout_constraintTop_toBottomOf="@+id/d4" />
+
+    <TextView
+        android:id="@+id/d3view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c3"
+        app:layout_constraintTop_toBottomOf="@+id/d4" />
+
+    <TextView
+        android:id="@+id/d7"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c7"
+        app:layout_constraintTop_toBottomOf="@+id/d8" />
+
+    <TextView
+        android:id="@+id/d7view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c7"
+        app:layout_constraintTop_toBottomOf="@+id/d8" />
+
+    <TextView
+        android:id="@+id/d5vie"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="88dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c7"
+        app:layout_constraintTop_toBottomOf="@+id/d8" />
+
+    <TextView
+        android:id="@+id/d4view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="88dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c6"
+        app:layout_constraintTop_toBottomOf="@+id/d7" />
+
+    <TextView
+        android:id="@+id/d6view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/d5vie"
+        app:layout_constraintStart_toEndOf="@+id/c6"
+        app:layout_constraintTop_toBottomOf="@+id/d7" />
+
+    <TextView
+        android:id="@+id/d1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c1"
+        app:layout_constraintTop_toBottomOf="@+id/d2view" />
+
+    <TextView
+        android:id="@+id/d1view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/c1"
+        app:layout_constraintTop_toBottomOf="@+id/d2" />
+
+    <TextView
+        android:id="@+id/c1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a2" />
+
+    <TextView
+        android:id="@+id/c1view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="104dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a2" />
+
+    <TextView
+        android:id="@+id/b6"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a6"
+        app:layout_constraintTop_toBottomOf="@+id/b7" />
+
+    <TextView
+        android:id="@+id/b6view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a6"
+        app:layout_constraintTop_toBottomOf="@+id/b7" />
+
+    <TextView
+        android:id="@+id/b7"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a7"
+        app:layout_constraintTop_toBottomOf="@+id/b8" />
+
+    <TextView
+        android:id="@+id/b7view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a7"
+        app:layout_constraintTop_toBottomOf="@+id/b8" />
+
+    <TextView
+        android:id="@+id/b5"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="true"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a5"
+        app:layout_constraintTop_toBottomOf="@+id/b6" />
+
+    <TextView
+        android:id="@+id/b5view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a5"
+        app:layout_constraintTop_toBottomOf="@+id/b6" />
+
+    <TextView
+        android:id="@+id/b3"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a3"
+        app:layout_constraintTop_toBottomOf="@+id/b4" />
+
+    <TextView
+        android:id="@+id/b3view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginEnd="307dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/b2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/a3"
+        app:layout_constraintTop_toBottomOf="@+id/b4"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/b1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="true"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a1"
+        app:layout_constraintTop_toBottomOf="@+id/b2" />
+
+    <TextView
+        android:id="@+id/b1view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a1"
+        app:layout_constraintTop_toBottomOf="@+id/b2" />
+
+    <TextView
+        android:id="@+id/a1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a2" />
+
+    <TextView
+        android:id="@+id/a1view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a2" />
+
+    <TextView
+        android:id="@+id/a3"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a4" />
+
+    <TextView
+        android:id="@+id/a3view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a4" />
+
+    <TextView
+        android:id="@+id/b4"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a4"
+        app:layout_constraintTop_toBottomOf="@+id/b5" />
+
+    <TextView
+        android:id="@+id/b4view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginEnd="307dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/b3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/a4"
+        app:layout_constraintTop_toBottomOf="@+id/b5"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/b2"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/a2"
+        app:layout_constraintTop_toBottomOf="@+id/b3" />
+
+    <TextView
+        android:id="@+id/b2view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginEnd="307dp"
+        android:layout_marginBottom="1dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/b1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/a2"
+        app:layout_constraintTop_toBottomOf="@+id/b3"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/a4"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a5" />
+
+    <TextView
+        android:id="@+id/a4view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a5" />
+
+    <TextView
+        android:id="@+id/a2"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a3" />
+
+    <TextView
+        android:id="@+id/a2view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a3" />
+
+    <TextView
+        android:id="@+id/a5"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a6" />
+
+    <TextView
+        android:id="@+id/a5view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a6" />
+
+    <TextView
+        android:id="@+id/a6"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a7" />
+
+    <TextView
+        android:id="@+id/a6view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a7" />
+
+    <TextView
+        android:id="@+id/a7"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a8" />
+
+    <TextView
+        android:id="@+id/a7view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toTopOf="@+id/a6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a8" />
+
+    <TextView
+        android:id="@+id/h8"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:layout_marginEnd="16dp"
+        android:background="#FFD5AA"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/g8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/h8view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:layout_marginEnd="16dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/g8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/g8"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#964B00"
+        android:clickable="false"
+        app:layout_constraintEnd_toStartOf="@+id/h8"
+        app:layout_constraintStart_toEndOf="@+id/f8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/g8view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintEnd_toStartOf="@+id/h8"
+        app:layout_constraintStart_toEndOf="@+id/f8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/f8"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        app:layout_constraintEnd_toStartOf="@+id/g8"
+        app:layout_constraintStart_toEndOf="@+id/e8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/f8view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintEnd_toStartOf="@+id/g8"
+        app:layout_constraintStart_toEndOf="@+id/e8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/e8"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#964B00"
+        app:layout_constraintEnd_toStartOf="@+id/f8"
+        app:layout_constraintStart_toEndOf="@+id/d8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/e8view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintEnd_toStartOf="@+id/f8"
+        app:layout_constraintStart_toEndOf="@+id/d8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/d8"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#FFD5AA"
+        android:clickable="true"
+        app:layout_constraintEnd_toStartOf="@+id/e8"
+        app:layout_constraintStart_toEndOf="@+id/c8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/d8view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintEnd_toStartOf="@+id/e8"
+        app:layout_constraintStart_toEndOf="@+id/c8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/c8"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#964B00"
+        android:clickable="false"
+        app:layout_constraintEnd_toStartOf="@+id/d8"
+        app:layout_constraintStart_toEndOf="@+id/b8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/c8view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintEnd_toStartOf="@+id/d8"
+        app:layout_constraintStart_toEndOf="@+id/b8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/a8"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="132dp"
+        android:background="#964B00"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/a8view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="132dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/b8"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#FFD5AA"
+        android:clickable="true"
+        app:layout_constraintEnd_toStartOf="@+id/c8"
+        app:layout_constraintStart_toEndOf="@+id/a8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/b8view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="132dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintEnd_toStartOf="@+id/c8"
+        app:layout_constraintStart_toEndOf="@+id/a8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/g5"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f5"
+        app:layout_constraintTop_toBottomOf="@+id/g6" />
+
+    <TextView
+        android:id="@+id/g5view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f5"
+        app:layout_constraintTop_toBottomOf="@+id/g6" />
+
+    <TextView
+        android:id="@+id/g7"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f7"
+        app:layout_constraintTop_toBottomOf="@+id/g8" />
+
+    <TextView
+        android:id="@+id/g7view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f7"
+        app:layout_constraintTop_toBottomOf="@+id/g8" />
+
+    <TextView
+        android:id="@+id/g6"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f6"
+        app:layout_constraintTop_toBottomOf="@+id/g7" />
+
+    <TextView
+        android:id="@+id/g6view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f6"
+        app:layout_constraintTop_toBottomOf="@+id/g7" />
+
+    <TextView
+        android:id="@+id/g4"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f4"
+        app:layout_constraintTop_toBottomOf="@+id/g5" />
+
+    <TextView
+        android:id="@+id/g4view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f4"
+        app:layout_constraintTop_toBottomOf="@+id/g5" />
+
+    <TextView
+        android:id="@+id/g2"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f2"
+        app:layout_constraintTop_toBottomOf="@+id/g3" />
+
+    <TextView
+        android:id="@+id/g2view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#964B00"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f2"
+        app:layout_constraintTop_toBottomOf="@+id/g3" />
+
+    <TextView
+        android:id="@+id/g1"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:clickable="false"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f1"
+        app:layout_constraintTop_toBottomOf="@+id/g2" />
+
+    <TextView
+        android:id="@+id/g1view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f1"
+        app:layout_constraintTop_toBottomOf="@+id/g2" />
+
+    <TextView
+        android:id="@+id/g3"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f3"
+        app:layout_constraintTop_toBottomOf="@+id/g4" />
+
+    <TextView
+        android:id="@+id/g3view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:background="#FFD5AA"
+        android:onClick="onClick"
+        app:layout_constraintStart_toEndOf="@+id/f3"
+        app:layout_constraintTop_toBottomOf="@+id/g4" />
+
+    <Button
+        android:id="@+id/resign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="63dp"
+        android:onClick="resignorDraw"
+        android:text="Resign"
+        app:layout_constraintBottom_toTopOf="@+id/c8"
+        app:layout_constraintEnd_toStartOf="@+id/undo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/undo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="63dp"
+        android:onClick="undoMove"
+        android:text="Undo"
+        android:clickable="true"
+        app:layout_constraintBottom_toTopOf="@+id/c8"
+        app:layout_constraintEnd_toStartOf="@+id/aimove"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/aimove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="185dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="63dp"
+        android:onClick="aiMove"
+        android:text="AI MOVE"
+        app:layout_constraintBottom_toTopOf="@+id/c8"
+        app:layout_constraintEnd_toStartOf="@+id/draw"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/draw"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="167dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="64dp"
+        android:onClick="resignorDraw"
+        android:text="Draw"
+        app:layout_constraintBottom_toTopOf="@+id/h8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/resign"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <LinearLayout
+        android:id="@+id/pawnPromoter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#864B00"
+        android:orientation="vertical"
+        android:padding="35sp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/pawn2queen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:background="#ffffff"
+            android:drawableLeft="@drawable/white_queen"
+            android:drawableRight="@drawable/black_queen"
+            android:elevation="6dp"
+            android:onClick="pawnSelection"
+            android:padding="5sp"
+            android:text="Queen"
+            android:textAlignment="center"
+            android:textColor="#0c0c0c"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/pawn2bishop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:background="#ffffff"
+            android:drawableLeft="@drawable/white_bishop"
+            android:drawableRight="@drawable/black_bishop"
+            android:elevation="6dp"
+            android:onClick="pawnSelection"
+            android:padding="5sp"
+            android:text="Bishop"
+            android:textAlignment="center"
+            android:textColor="#0c0c0c"
+            android:textSize="35sp" />
+
+        <TextView
+            android:id="@+id/pawn2rook"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:background="#ffffff"
+            android:drawableLeft="@drawable/white_rook"
+            android:drawableRight="@drawable/black_rook"
+            android:elevation="6dp"
+            android:onClick="pawnSelection"
+            android:padding="5sp"
+            android:text="Rook"
+            android:textAlignment="center"
+            android:textColor="#0c0c0c"
+            android:textSize="35sp" />
+
+        <TextView
+            android:id="@+id/pawn2knight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:background="#ffffff"
+            android:drawableLeft="@drawable/white_knight"
+            android:drawableRight="@drawable/black_knight"
+            android:elevation="6dp"
+            android:onClick="pawnSelection"
+            android:padding="5sp"
+            android:text="Knight"
+            android:textAlignment="center"
+            android:textColor="#0c0c0c"
+            android:textSize="35sp" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

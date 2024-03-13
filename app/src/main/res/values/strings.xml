@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android16</string>
+    <string name="new_game">New Game</string>
+    <string name="old_games">Old Games</string>
+    <string name="replay_game">Replay</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="select_which_piece_to_promote_to">Select which piece to promote to</string>
+</resources>
